@@ -15,9 +15,9 @@
 
 	<?php 
 
-		$x = 23;
-		$c = 6;
-		$z = 3;
+		$x = 23;	// 	change number here
+		$c = 6;		// 	change number here
+		$z = 3;		// 	change number here
 
 
 			if ($x>$c && $x>$z) {
@@ -42,8 +42,8 @@
 
 	<?php 
 
-		$x = 43;
-		$i = 43;
+		$x = 43;	// 	change number here
+		$i = 43;	// 	change number here
 
 			if ($x>$i) {
 
@@ -68,29 +68,29 @@
 
 	<?php 
 
-		$x = 3;
-		$r = 3;
-		$t = 3;
+		$x = 3;		// 	change number here
+		$r = 3;		// 	change number here
+		$t = 3;		// 	change number here
 
 
-		if($x>$r && $x>$t){
+			if($x>$r && $x>$t){
 
-			echo "X = " .$x. " is Big.";
+				echo "X = " .$x. " is Big.";
 
-		}elseif ($r>$x && $r>$t)
-		{
-			echo "R = " .$r. " is Big.";
+			}elseif ($r>$x && $r>$t)
+			{
+				echo "R = " .$r. " is Big.";
 
-		}elseif ($t>$x && $t>$r)
+			}elseif ($t>$x && $t>$r)
 
-		{
-			echo "T = " .$t. " is Big.";
+			{
+				echo "T = " .$t. " is Big.";
 
-		} else {
+			} else {
 
-			echo "X = " .$x. ", R = " .$r. ", T = " .$t.  " All are SAME.";
+				echo "X = " .$x. ", R = " .$r. ", T = " .$t.  " All are SAME.";
 
-		}
+			}
 
 			
 	?>
