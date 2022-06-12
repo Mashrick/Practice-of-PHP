@@ -15,9 +15,9 @@
 
 	<?php 
 
-		$x = 23;
-		$c = 23;
-		$z = 23;
+		$x = 23;	// Change Number here
+		$c = 23;	// Change Number here
+		$z = 23;	// Change Number here
 
 		echo "Find the Largest number between three Numbers. <br> <br>";
 
@@ -50,8 +50,8 @@
 
 	<?php 
 
-		$x = 43;
-		$i = 43;
+		$x = 43;	// Change Number here
+		$i = 43;	// Change Number here
 
 		echo "Find the Largest number between two Numbers. <br> <br>";
 
@@ -84,9 +84,9 @@
 	<?php 
 
 
-		$x = 3;
-		$r = 3;
-		$t = 3;
+		$x = 3;		// Change Number here
+		$r = 3;		// Change Number here
+		$t = 3;		// Change Number here
 
 		echo "Find the Largest number between three Numbers. <br> <br>";
 
@@ -124,9 +124,9 @@
 
 	<?php 
 
-		$x = 3;
-		$r = 3;
-		$t = 3;
+		$x = 3;		// Change Number here
+		$r = 3;		// Change Number here
+		$t = 3;		// Change Number here
 
 		print "Find the SMALLEST number between three Numbers. <br> <br>";
 
