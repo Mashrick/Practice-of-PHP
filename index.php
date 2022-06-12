@@ -60,6 +60,41 @@
 
 
 	?>
+	
+	
+	
+	<!--	find the largest number between three numbers or same number using if...elif...else	-->
+
+
+	<?php 
+
+		$x = 3;
+		$r = 3;
+		$t = 3;
+
+
+		if($x>$r && $x>$t){
+
+			echo "X = " .$x. " is Big.";
+
+		}elseif ($r>$x && $r>$t)
+		{
+			echo "R = " .$r. " is Big.";
+
+		}elseif ($t>$x && $t>$r)
+
+		{
+			echo "T = " .$t. " is Big.";
+
+		} else {
+
+			echo "X = " .$x. ", R = " .$r. ", T = " .$t.  " All are SAME.";
+
+		}
+
+			
+	?>
+	
 
 		
 		
